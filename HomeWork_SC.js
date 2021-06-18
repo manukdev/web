@@ -1,5 +1,5 @@
  // Xndir-1
-// function x (x) {
+// functio//n x (x) {
 //     let a = Math.floor(x);
 //    let str = x + ""
 //     let bool = false
